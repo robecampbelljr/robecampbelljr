@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [famBAM]
+- 🔭 I’m currently working on [Vets Who Code Curriculum]
 - 🌱 I’m currently learning typescript and azure
 - 💬 Ask me about anything or just say 👋 !
 - 📫 How to reach me: robecampbelljr@gmail.com
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 ### Connect With Me!
 [<img src="./img/LI-In-Bug.png" alt="LinkedIn" width="30px" height="30px">]
 
-[famBAM]: https://github.com/robecampbelljr/fambam
+[Vets Who Code Curriculum]: https://github.com/Vets-Who-Code/js-web-path-robecampbelljr
 [<img src="./img/LI-In-Bug.png" alt="LinkedIn" width="30px" height="30px">]: https://www.linkedin.com/in/robecampbelljr/
